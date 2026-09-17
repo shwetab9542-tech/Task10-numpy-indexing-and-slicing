@@ -1,8 +1,5 @@
 # NumPy Indexing and Slicing
 
-## Data Science Internship
-### VEDA Technology
-
 ## Objective
 
 The objective of this task is to practice NumPy indexing and
